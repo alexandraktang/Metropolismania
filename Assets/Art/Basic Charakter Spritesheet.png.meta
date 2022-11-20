@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Basic Charakter Spritesheet_4
+      name: Basic Charakter Spritesheet
       rect:
         serializedVersion: 2
         x: 16
-        y: 159
+        y: 160
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fb8a9a3bd7d453488f3143b3f88a456
-      internalID: -1834081848
+      spriteID: 00f8c974ea6b04f4f8d57ce28e35f906
+      internalID: -1683127571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2b972b373e418429511803d6421303
+      internalID: 2066338686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691fa616bcc2ba6468a74f4213002939
+      internalID: 34545882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c0910364cf3b43b38a29efc7a807d
+      internalID: -1466116816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbfbdc8b9602a429abbe36e174a111
+      internalID: 307801198
       vertices: []
       indices: 
       edges: []
@@ -141,9 +225,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 159
+        y: 112
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef5636914b6e1654ab9e70abf611aec9
-      internalID: -151816129
+      spriteID: a04ded3e259db7e42bbf9f5c6153d4ac
+      internalID: -508243284
       vertices: []
       indices: 
       edges: []
@@ -162,9 +246,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 159
+        y: 112
         width: 16
-        height: 18
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,8 +256,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57c471dec915d5f4486257025862dafe
-      internalID: 226832300
+      spriteID: 76dc1a37c0f87e5438c4675a39ea4a7c
+      internalID: 463032123
       vertices: []
       indices: 
       edges: []
@@ -183,9 +267,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 159
+        y: 112
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,8 +277,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37713f58e3c242948826196e4e16752f
-      internalID: 1758185693
+      spriteID: c2cc1878ea60ada4180da5feca9ab388
+      internalID: -2034940477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d014e7b346685f14f9e3786fa96b5d55
+      internalID: -301092892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f67b9297e5734294b0deabfc4b015
+      internalID: -26901409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6a090057df054fa5b3a68b161bb56
+      internalID: -773570740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basic Charakter Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dede6117bf75b894ab03480f592bfb39
+      internalID: 515393061
       vertices: []
       indices: 
       edges: []
@@ -204,9 +372,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 111
+        y: 16
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,8 +382,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6cb128378ddfd084988bd3e7277505c2
-      internalID: -1566329959
+      spriteID: c970adfdb0fb17c4a8b1559df6004fbd
+      internalID: -910131182
       vertices: []
       indices: 
       edges: []
@@ -225,9 +393,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 111
+        y: 16
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,8 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4381fa456fe31c64a89e1f741bb654ff
-      internalID: 1684821905
+      spriteID: 00ceffbdfaccace4f9352c5e7898af2b
+      internalID: 1481788235
       vertices: []
       indices: 
       edges: []
@@ -246,9 +414,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 111
+        y: 16
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,8 +424,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 008d1fcebbf9f5d479f6900f949eb5b0
-      internalID: -473640703
+      spriteID: a4d59b56fb0942e488a4fcd6aacbe633
+      internalID: -1432141001
       vertices: []
       indices: 
       edges: []
@@ -267,9 +435,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 111
+        y: 16
         width: 16
-        height: 17
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,176 +445,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cc6e86a91f10b84fa7ad676978d5303
-      internalID: 1484916375
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_20
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 63
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6b772ae28dae53478caf2e5e4704894
-      internalID: -1377174237
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_21
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 63
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d153e103f9d157a49b48ee6fa496d3f4
-      internalID: 467342689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_22
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 63
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2bb82b4c8605df141afbd8b3109d08ea
-      internalID: -1789824226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_23
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 63
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03eaa6d947cc3a941bc2e808e7eaef9c
-      internalID: 269060671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_28
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 15
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 81561a8f39a349142b8ec3bfe8caa3e0
-      internalID: -1433329417
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_29
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 15
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f749a78019391044a3edba485c94b5d
-      internalID: -214989692
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_30
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 15
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aaf720c80e46a414e8e06d554af67f22
-      internalID: -1596052128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basic Charakter Spritesheet_31
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 15
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8812271309ee2f342b627c124e8b6030
-      internalID: -1969963962
+      spriteID: f067e7bf338f98f4f829ad1615040a48
+      internalID: -1946880542
       vertices: []
       indices: 
       edges: []
@@ -462,38 +462,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Basic Charakter Spritesheet_5: -151816129
-      Basic Charakter Spritesheet_15: 1484916375
-      Basic Charakter Spritesheet_0: 1805190473
-      Basic Charakter Spritesheet_6: 226832300
-      Basic Charakter Spritesheet_26: 1685900837
-      Basic Charakter Spritesheet_9: 1762262435
-      Basic Charakter Spritesheet_14: -473640703
-      Basic Charakter Spritesheet_12: -1566329959
-      Basic Charakter Spritesheet_21: 467342689
-      Basic Charakter Spritesheet_25: 2030394233
-      Basic Charakter Spritesheet_18: -849559433
-      Basic Charakter Spritesheet_17: -425910489
-      Basic Charakter Spritesheet_2: 1042809874
-      Basic Charakter Spritesheet_19: -384698494
-      Basic Charakter Spritesheet_23: 269060671
-      Basic Charakter Spritesheet_31: -1969963962
-      Basic Charakter Spritesheet_3: 82176122
-      Basic Charakter Spritesheet_8: -486287446
-      Basic Charakter Spritesheet_7: 1758185693
-      Basic Charakter Spritesheet_4: -1834081848
-      Basic Charakter Spritesheet_11: -140885285
-      Basic Charakter Spritesheet_22: -1789824226
-      Basic Charakter Spritesheet_1: -1421083055
-      Basic Charakter Spritesheet_16: 1735804525
-      Basic Charakter Spritesheet_27: 1713328770
-      Basic Charakter Spritesheet_10: -2090977371
-      Basic Charakter Spritesheet_28: -1433329417
-      Basic Charakter Spritesheet_13: 1684821905
-      Basic Charakter Spritesheet_30: -1596052128
-      Basic Charakter Spritesheet_24: 146475152
-      Basic Charakter Spritesheet_20: -1377174237
-      Basic Charakter Spritesheet_29: -214989692
+      Basic Charakter Spritesheet_5: -508243284
+      Basic Charakter Spritesheet_15: -1946880542
+      Basic Charakter Spritesheet: -1683127571
+      Basic Charakter Spritesheet_6: 463032123
+      Basic Charakter Spritesheet_9: -26901409
+      Basic Charakter Spritesheet_14: -1432141001
+      Basic Charakter Spritesheet_12: -910131182
+      Basic Charakter Spritesheet_2: 34545882
+      Basic Charakter Spritesheet_3: -1466116816
+      Basic Charakter Spritesheet_8: -301092892
+      Basic Charakter Spritesheet_7: -2034940477
+      Basic Charakter Spritesheet_4: 307801198
+      Basic Charakter Spritesheet_11: 515393061
+      Basic Charakter Spritesheet_1: 2066338686
+      Basic Charakter Spritesheet_10: -773570740
+      Basic Charakter Spritesheet_13: 1481788235
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
